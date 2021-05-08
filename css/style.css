@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.introfont{
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
+
+img {
+    width: 100px;
+  }
+.aboutlinks{
+    
+    display: inline-block;
+    
+}
+
+.logocontainer{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.firstblock {
+    width: 50%;
+}
+
+.rightblock{
+    display: inline-block;
+}
+
+.caseStudy{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.cs-girls{
+    display: flex;
+}
